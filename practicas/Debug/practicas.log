@@ -1,0 +1,21 @@
+﻿  esfera.cpp
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\esfera.cpp(23,46): warning C4305: '=': truncamiento de 'double' a 'GLfloat'
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\esfera.cpp(27,50): warning C4305: '=': truncamiento de 'double' a 'GLfloat'
+  Final.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\include\glfw3.h(98): message : vea la definición anterior de 'APIENTRY'
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(660,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(1002,61): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(1086,26): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(1114,19): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(1124,36): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(6561,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(6561,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Pechan-pc\Pictures\Proy\practicas\practicas\Final.cpp(6568,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\Pechan-pc\Pictures\Proy\practicas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\Pechan-pc\Pictures\Proy\practicas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\Pechan-pc\Pictures\Proy\practicas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\Pechan-pc\Pictures\Proy\practicas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  practicas.vcxproj -> C:\Users\Pechan-pc\Pictures\Proy\practicas\Debug\practicas.exe
